@@ -74,3 +74,7 @@ This page explains how to update live process definition information. You need t
 7. Click on _**Save**_ to update the script contents.
 
 The Scripts section of the process more details page allows to update a _TYPE\_READ\_ONLY\_SCRIPT_ Expression or a _TYPE\_CONSTANT_ Expression when associated to a Groovy script connector
+
+## Cache configuration and policy 
+
+
